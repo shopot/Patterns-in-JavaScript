@@ -6,26 +6,26 @@
 
 ### Порождающие (Creational)
 
-- [Прототип (Prototype)](/patterns/prototype)
-- [Одиночка (Singleton)](/patterns/singleton)
-- [Фабрика (Factory)](/patterns/factory)
+- [Прототип (Prototype)](/patterns/prototype.md)
+- [Одиночка (Singleton)](/patterns/singleton.md)
+- [Фабрика (Factory)](/patterns/factory.md)
 
 > Порождающие паттерны решают задачи гибкого и безопасного создания объектов, отделяя процесс инстанцирования от основной логики. Они помогают управлять сложностью инициализации, обеспечивают контроль над жизненным циклом объектов и позволяют адаптировать систему к изменяющимся требованиям без переписывания кода.
 
 ### Структурные (Structural
 
-- [Заместитель (Proxy)](/patterns/proxy)
-- [Декоратор (Decorator)](/patterns/decorator)
-- [Приспособленец (Flyweight)](/patterns/flyweight)
-- [Адаптер (Adapter)](/patterns/adapter)
+- [Заместитель (Proxy)](/patterns/proxy.md)
+- [Декоратор (Decorator)](/patterns/decorator.md)
+- [Приспособленец (Flyweight)](/patterns/flyweight.md)
+- [Адаптер (Adapter)](/patterns/adapter.md)
 
 > Структурные паттерны помогают организовать отношения между классами и объектами, делая систему более гибкой и расширяемой. Они решают проблемы совместимости интерфейсов, управления сложными структурами данных и оптимизации работы с памятью.
 
 ### Поведенческие (Behavioral)
 
-- [Наблюдатель (Observer)](/patterns/observer)
-- [Состояние (State)](/patterns/state)
-- [Стратегия (Strategy)](/patterns/strategy)
-- [Посетитель (Visitor)](/patterns/visitor)
+- [Наблюдатель (Observer)](/patterns/observer.md)
+- [Состояние (State)](/patterns/state.md)
+- [Стратегия (Strategy)](/patterns/strategy.md)
+- [Посетитель (Visitor)](/patterns/visitor.md)
 
 > Поведенческие паттерны решают задачи эффективного взаимодействия объектов и распределения ответственности между ними. Они помогают организовать обмен данными, управление операциями и алгоритмами, делая код гибким и легко расширяемым без жестких зависимостей между компонентами.
